@@ -49,6 +49,6 @@ const instruments = {
     'ti-ta-ti' : "piano",
     pouet : "trumpet",
     trulu : "flute",
-    'gti-gzi' : "violin",
+    'gzi-gzi' : "violin",
     'boum-boum': "drum"
 }
