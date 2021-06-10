@@ -48,7 +48,7 @@ function checkMusician(value, key) {
 const instruments = {
     'ti-ta-ti' : "piano",
     pouet : "trumpet",
-    trulu : "trumpet",
+    trulu : "flute",
     'gti-gzi' : "violin",
     'boum-boum': "drum"
 }
