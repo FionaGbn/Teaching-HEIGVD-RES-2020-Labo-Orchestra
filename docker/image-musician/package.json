@@ -1,8 +1,8 @@
 {
-  "name": "image-musician",
+  "name": "imusician",
   "version": "1.0.0",
   "description": "Send the sound emitted by a musician",
-  "main": "index.js",
+  "main": "musician.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
