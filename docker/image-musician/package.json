@@ -1,5 +1,5 @@
 {
-  "name": "imusician",
+  "name": "musician",
   "version": "1.0.0",
   "description": "Send the sound emitted by a musician",
   "main": "musician.js",

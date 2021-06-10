@@ -34,10 +34,10 @@ socket.on('message', (msg, source) => {
 
 });
 
-// Check every 5 seconds if musicians are still playing
+// Check every second if musicians are still playing
 setInterval(() => {
     musiciansPlaying.forEach(checkMusician);
-}, 5000);
+}, 1000);
 
 function checkMusician(value, key) {
     if (Date.now() - value.activeSince.getTime() > 5000) {
